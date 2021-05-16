@@ -1,3 +1,2 @@
-# hello-world
-my first repository
-I graduated in Summer of 2016. Joined github to stop being stagnite and get some experience.
+# Showcase
+A brief display of me playing around with various languages, primary being python and java. 
